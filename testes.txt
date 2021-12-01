@@ -1,1 +1,2 @@
-Reslizando testes de comunicação com github e repositório local.
+Realizando testes de comunicação com github e repositório local.
+Fazendo uma alteração aleatória.
