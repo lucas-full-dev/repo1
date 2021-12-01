@@ -1,0 +1,1 @@
+Reslizando testes de comunicação com github e repositório local.
